@@ -154,10 +154,10 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+defaults:
+  home:
+    heading: "SkyVLog"
+    subheading: "개발자 이야기"
 #     banner: "Your image url"
 
 # Banner default settings
